@@ -16,7 +16,7 @@ import styles from './Comment.module.css'
               </div>
 
               <button title='Deletar comentário'>
-                <Trash size={20} />
+                <Trash size={24} />
               </button>
             </header>
 
