@@ -21,7 +21,7 @@ import { Avatar } from './Avatar'
               </button>
             </header>
 
-            <p>Bloons TD 6 é muito legal!!!</p>
+            <p>Sou um comentário!</p>
           </div>
 
           <footer>
